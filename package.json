@@ -1,0 +1,24 @@
+{
+  "name": "gulptest3",
+  "version": "0.0.0",
+  "description": "gulpのテストです",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ykensuke/gulptest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ykensuke/gulptest/issues"
+  },
+  "homepage": "https://github.com/ykensuke/gulptest",
+  "devDependencies": {
+    "bower": "*",
+    "gulp": "*",
+    "gulp-rimraf": "^0.1.0"
+  }
+}

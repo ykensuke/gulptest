@@ -1,1 +1,2 @@
-gulpのテストです
+$ npm install
+$ gulp

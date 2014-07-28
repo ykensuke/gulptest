@@ -7,6 +7,9 @@ gulp.task('bower', function() {
 		gulp.src([
 			'bower_components/jquery/jquery.min.js'
 			]).pipe(gulp.dest('./build/js/jquery'));
+		gulp.src([
+			'static/**'
+			]).pipe(gulp.dest('./build/'));
 	});
 });
 
